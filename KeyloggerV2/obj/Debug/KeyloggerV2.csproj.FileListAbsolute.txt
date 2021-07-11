@@ -1,0 +1,10 @@
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\bin\Debug\KeyloggerV2.exe.config
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\bin\Debug\KeyloggerV2.exe
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\bin\Debug\KeyloggerV2.pdb
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\bin\Debug\Helper.dll
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\bin\Debug\Helper.pdb
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\obj\Debug\KeyloggerV2.csprojAssemblyReference.cache
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\obj\Debug\KeyloggerV2.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\obj\Debug\KeyloggerV2.csproj.CopyComplete
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\obj\Debug\KeyloggerV2.exe
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\KeyloggerV2\obj\Debug\KeyloggerV2.pdb

@@ -1,0 +1,5 @@
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\Helper\bin\Debug\Helper.dll
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\Helper\bin\Debug\Helper.pdb
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\Helper\obj\Debug\Helper.dll
+D:\Dosyalar\Yazilim\csharp\KeyloggerV2\Helper\obj\Debug\Helper.pdb
